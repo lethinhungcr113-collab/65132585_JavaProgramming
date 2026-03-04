@@ -22,7 +22,7 @@ public class delta {
             double canDelta = Math.sqrt(delta);
             System.out.println("Căn delta = " + canDelta);
         } else {
-            System.out.println("Delta âm, không có căn bậc hai thực.");
+            System.out.println("Delta âm, không có căn bậc hai ");
         }
 
         heso.close();
